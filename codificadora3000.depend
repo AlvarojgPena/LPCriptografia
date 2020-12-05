@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1606959485 source:c:\users\otávio mello\desktop\codificadora3000\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+
+1606958943 c:\users\otávio mello\desktop\codificadora3000\header.h
+
+1607017143 source:c:\users\otávio mello\desktop\Área de trabalho 2.0\fatec\lp\codificadora3000\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+
+1607017061 c:\users\otávio mello\desktop\Área de trabalho 2.0\fatec\lp\codificadora3000\header.h
+
+1607016993 source:c:\users\otávio mello\desktop\Área de trabalho 2.0\fatec\lp\codificadora3000\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+
+1607016993 source:c:\users\alvar\desktop\criptografiabombapatch100%atualizado\funcoes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+
+1607017061 c:\users\alvar\desktop\criptografiabombapatch100%atualizado\header.h
+
+1607017143 source:c:\users\alvar\desktop\criptografiabombapatch100%atualizado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"header.h"
+
